@@ -1,0 +1,4 @@
+#Wed Apr 18 22:24:34 GMT+02:00 2018
+base.0=D\:\\Android\\AndroidStudioProjects\\TestProjectKotlin\\mvp2\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Android\\AndroidStudioProjects\\TestProjectKotlin\\mvp2\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
